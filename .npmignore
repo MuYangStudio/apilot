@@ -1,0 +1,12 @@
+src/
+examples/
+node_modules/
+.gitignore
+.vscode/
+.idea/
+coverage/
+*.log
+.env
+.env.local
+tsconfig.json
+jest.config.js
